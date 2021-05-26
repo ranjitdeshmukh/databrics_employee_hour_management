@@ -9,5 +9,5 @@
 - find the avgLogind value of employee maximun
 -  find the avgLogind value of employee maximun
 -  find the ideal value 
--  find no time commers 
+-  find no time late commers 
 
